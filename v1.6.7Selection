@@ -1,4 +1,4 @@
--- Not: Bu Selection Guisi Yapay Zeka Yapmıştır. Bilginiz olsun.
+-- Not: Bu Selection Guisi Yapay Zeka Tarafından Yapılmıştır. Bilginiz olsun.
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
